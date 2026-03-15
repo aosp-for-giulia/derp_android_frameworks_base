@@ -15377,6 +15377,12 @@ public final class Settings {
         public static final String LOCATION_PRIVACY_INDICATOR_ENABLED = "location_privacy_indicator_enabled";
 
         /**
+         * Haptic effects profile to be used
+         * @hide
+         */
+        public static final String HAPTIC_EFFECTS_PROFILE = "haptic_effects_profile";
+
+        /**
          * Whether to increase touch polling rate
          * @hide
          */
