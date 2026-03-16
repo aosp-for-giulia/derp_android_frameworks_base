@@ -15377,6 +15377,12 @@ public final class Settings {
         public static final String LOCATION_PRIVACY_INDICATOR_ENABLED = "location_privacy_indicator_enabled";
 
         /**
+         * Whether to increase touch polling rate
+         * @hide
+         */
+        public static final String HIGH_TOUCH_RATE_ENABLED = "high_touch_rate_enabled";
+
+        /**
          * Data usage cycle type in QS footer.
          * 0 Daily   1 Weekly
          * Default 0.
